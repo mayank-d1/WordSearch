@@ -17,11 +17,11 @@ Constraints
 
 setup -
 1)  create a virtual env with Python 3.6.5
-    python3 -m venv /<project folder>/virtualenv
+    python3 -m venv /project_folder/virtualenv
 
 2) activate virtual env
 
-3) take git clone <url>
+3) take git clone project_url
 
 4) pip install requirements.txt
 
